@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec1{
+    background: #222222;
+}
+
+.dog{
+    background: #FF5437;
+}
+
+.sec13{
+    background: #F2F2F2;
+}
+
+.hol{
+    background: #F2F2F2;
+    border-radius: 10px;
+}
+
+.sec99{
+    background: #F2F2F2;
+}
+
+.gol{
+    background: #E5E5E5;
+}
