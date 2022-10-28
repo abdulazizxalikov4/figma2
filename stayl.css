@@ -27,3 +27,22 @@
 .gol{
     background: #E5E5E5;
 }
+
+.vay{
+    position: absolute;
+    left: 680px;
+    display: flex;
+    align-items: center;
+}
+
+.rang{
+    color: blue;
+}
+
+.rang1{
+    color: #FF5437;
+}
+
+.rang2{
+    color:  #FF9209;
+}
